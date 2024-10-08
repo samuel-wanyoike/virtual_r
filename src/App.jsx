@@ -5,7 +5,7 @@ import WorkFlow from './components/WorkFlow'
 import Price from './components/Price'
 import Testimonials from './components/Testimonials'
 import Footer from './components/Footer'
-import Navbar from './components/navbar'
+import Navbar from './components/Navbar'
 
 const App = () => {
   return (
